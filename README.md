@@ -11,7 +11,7 @@ I'm a self-taught full-stack developer.
 
 | Main | Support |
 | --- | --- |
-| ![Top Languages](https://github-readme-mdt.vercel.app/api/top-langs/?username=addeeandra&hide_progress=false&hide=javascript,typescript,blade,css,scss,html,c%2B%2B,dockerfile,shell,pug&theme=buefy&hide_border=true&langs_count=8&layout=pie) | ![Top Languages](https://github-readme-mdt.vercel.app/api/top-langs/?username=addeeandra&hide_progress=false&hide=javascript,scss,php,java,python,dart,pug,nix,kotlin,rust,vue&theme=buefy&hide_border=true&langs_count=8&layout=pie) |
+| ![Top Languages](https://github-readme-mdt.vercel.app/api/top-langs/?username=addeeandra&hide_progress=false&hide=javascript,typescript,blade,css,scss,html,c%2B%2B,dockerfile,shell,pug&theme=transparent&hide_border=true&langs_count=8&layout=pie) | ![Top Languages](https://github-readme-mdt.vercel.app/api/top-langs/?username=addeeandra&hide_progress=false&hide=javascript,scss,php,java,python,dart,pug,nix,kotlin,rust,vue&theme=transparent&hide_border=true&langs_count=8&layout=pie) |
 
 #### 📖 - My Reads
 
