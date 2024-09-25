@@ -2,10 +2,11 @@ I'm a self-taught full-stack developer.
 
 #### 🇮🇩 - About Me
 
-- Helping corporate to accelerate their business & training at [@dicibi](https://dcb.co.id)
-- Doing side-quests at [@digital-entropy](https://github.com/digital-entropy)
-- From Indonesia, the biggest archipelago country in earth 🌏
-- I code with PHP, Dart, Rust, and/or Python (pretty lang-agnostic 😈)
+- Started as Back-End ➡️ Mobile ➡️ Full-stack
+- From Indonesia, the biggest archipelago 🌏
+- I code anything (lang-agnostic 😈)
+- Experimenting with IaC and LLM
+
 
 <code><img width="32" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png"/></code>
 <code><img width="32" src="https://camo.githubusercontent.com/f9e0c6f8571a04d30382d14f47fc110badd1a3f136b530902ef28995ae4bd50a/68747470733a2f2f7675656a732e6f72672f696d616765732f6c6f676f2e706e67"/></code>
@@ -21,8 +22,7 @@ I'm a self-taught full-stack developer.
 
 #### 📖 - My Reading List
 
-- ☑️ [F](http://fundamentalsofsoftwarearchitecture.com)undamentals of Software Architecture
-- ⏳ [M](https://mml-book.github.io/)athematics for Machine Learning
-- ⏳ [Z](https://www.zero2prod.com/index.html)ero to Production in Rust
+- ⌛ [Fundamentals](http://fundamentalsofsoftwarearchitecture.com) of Software Architecture
+- ⏳ Zero to Production in [Rust](https://www.zero2prod.com/index.html)
 - ⏳ Omniscient Reader's Viewpoint
 
