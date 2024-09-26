@@ -5,7 +5,7 @@ I'm a self-taught full-stack developer.
 - Started as Back-End ➡️ Mobile ➡️ Full-stack
 - From Indonesia, the biggest archipelago 🌏
 - I code anything (lang-agnostic 😈)
-- Experimenting with IaC and LLM
+- Experimenting IaC and GenAI
 
 
 <code><img width="32" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png"/></code>
