@@ -1,4 +1,6 @@
-I'm a self-taught full-stack developer and a MR500+ Hunter 🦖
+I'm a self-taught full-stack developer.
+
+> Also a MR500+ Hunter, rawwrr 🦖
 
 #### 🇮🇩 - About Me
 
