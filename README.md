@@ -1,7 +1,5 @@
 I'm a self-taught full-stack developer.
 
-> Also a MR500+ Hunter, rawwrr 🦖
-
 #### 🇮🇩 - About Me
 
 - Started as Back-End ➡️ Mobile ➡️ Full-stack
@@ -21,9 +19,4 @@ I'm a self-taught full-stack developer.
 | --- | --- |
 | ![Top Languages](https://github-readme-mdt.vercel.app/api/top-langs/?username=addeeandra&hide_progress=false&hide=javascript,typescript,blade,css,scss,html,c%2B%2B,dockerfile,shell,pug&theme=transparent&hide_border=true&langs_count=8&layout=pie) | ![Top Languages](https://github-readme-mdt.vercel.app/api/top-langs/?username=addeeandra&hide_progress=false&hide=javascript,scss,php,java,python,dart,pug,nix,kotlin,rust,vue&theme=transparent&hide_border=true&langs_count=8&layout=pie) |
 
-#### 📖 - My Reading List
-
-- ⌛ [Fundamentals](http://fundamentalsofsoftwarearchitecture.com) of Software Architecture
-- ⏳ Zero to Production in [Rust](https://www.zero2prod.com/index.html)
-- ⏳ Omniscient Reader's Viewpoint
 
