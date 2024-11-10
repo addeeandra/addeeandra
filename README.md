@@ -12,11 +12,3 @@ I'm a self-taught full-stack developer.
 <code><img width="32" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/flutter/flutter.png"/></code>
 <code><img width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png"/></code>
 <code><img width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"/></code>
-
-#### 📊 - My Code's Composition
-
-| Main | Support |
-| --- | --- |
-| ![Top Languages](https://github-readme-mdt.vercel.app/api/top-langs/?username=addeeandra&hide_progress=false&hide=javascript,typescript,blade,css,scss,html,c%2B%2B,dockerfile,shell,pug&theme=transparent&hide_border=true&langs_count=8&layout=pie) | ![Top Languages](https://github-readme-mdt.vercel.app/api/top-langs/?username=addeeandra&hide_progress=false&hide=javascript,scss,php,java,python,dart,pug,nix,kotlin,rust,vue&theme=transparent&hide_border=true&langs_count=8&layout=pie) |
-
-
